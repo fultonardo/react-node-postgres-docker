@@ -16,3 +16,6 @@ docker-compose build && docker-compose down && docker-compose up -d
 Once the docker containers are up and running, poke around the web page at localhost:3000
 
 Happy hacking!
+
+![image](https://github.com/fultonardo/react-node-postgres-docker/assets/30834416/b8c61858-aad7-470f-ba24-4975c42e061c)
+
